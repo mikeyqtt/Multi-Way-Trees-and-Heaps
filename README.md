@@ -2,7 +2,7 @@
 ## Introduction
 The Inventory Management System is a Java-based console application that uses Multi-Way B-trees to organize product names alphabetically and Min-Heaps to track the product with the lowest inventory.
 
-
+![image alt](https://github.com/mikeyqtt/Multi-Way-Trees-and-Heaps/blob/b2d5ce714a951f3f181aad33473d0750c8e5b037/InventoryManagementScreenshot.png)
 
 ## Features
   1. Add Product - Allows users to add a product name and its stock quantity to the system.
